@@ -16,6 +16,8 @@
 
 
 ## Minhas Skills
+![SQL](https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico)&nbsp;
+![FIREBIRD](https://avatars.githubusercontent.com/u/6057940?s=200&v=4)&nbsp;
 
 #### Main Stack:
 
