@@ -37,7 +37,7 @@
 
 #### Databases:
 
-![SQL]([https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fsql-logo%2F&psig=AOvVaw2jWn7t-6RV8518eMYrSUiF&ust=1723069366549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDN8d2z4YcDFQAAAAAdAAAAABAT))&nbsp;
+![SQL](https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
