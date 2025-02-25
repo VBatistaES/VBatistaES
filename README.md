@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=40% src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 &nbsp;&nbsp;&nbsp;
 
 
