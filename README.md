@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://media.licdn.com/dms/image/D4D16AQF2dHeCSsL_rw/profile-displaybackgroundimage-shrink_350_1400/0/1718460272428?e=1728518400&v=beta&t=ZfUr7LNQxdlnHXhuuW5qhJu1QMFe0eCZSN4YmUg92vw" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw2AnlfIuN52iMXCQ4VgmWtr&ust=1740574724976000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDCvKzw3osDFQAAAAAdAAAAABAJ" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -13,7 +13,6 @@
 
 #### Estudando no Momento.:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
