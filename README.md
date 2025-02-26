@@ -38,9 +38,7 @@
 </div>&nbsp;&nbsp;
  
 
-  <div style="text-align: center; margin-bottom: 100px;">
-  <img style="object-fit: contain; width: 25%;" src="https://github.com/h0ru/gpk/blob/main/gengar.gif" />
-</div>
+  <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="100px" max-width="100px" width="100px" align="center">
 
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
