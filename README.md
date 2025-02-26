@@ -1,4 +1,4 @@
-<img align="center" width="900px" height="250px" src="https://github.com/VBatistaES/VBatistaES/blob/main/Modern%20Business%20Notion%20Header.png?raw=true" />
+<img align="center" width="900px" height="450px" src="https://github.com/VBatistaES/VBatistaES/blob/main/Modern%20Business%20Notion%20Header.png?raw=true" />
 
 
 
