@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 100px;">
   <img style="object-fit: contain;" width="25%" src="https://github.com/h0ru/gpk/blob/main/gengar.gif" />
-  <img style="object-fit: contain;" width="25%" src="[URL_DO_SEU_GIF_AQUI](https://tenor.com/pt-BR/view/sungjinwoo-solo-leveling-gif-9030451257090010765)" />
+  <img style="object-fit: contain;" width="25%" src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" />
 </div>
 
 #### Principal Sabedoria:
