@@ -2,7 +2,7 @@
 
 <p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
 
-<img src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" min-width="250px" max-width="250px" width="250px" align="rigth">
+<img src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" min-width="250px" max-width="250px" width="250px" align="center">
 
 #### Principal Sabedoria:
 
@@ -38,6 +38,9 @@
 </div>&nbsp;&nbsp;
  
 
-  
+  <div style="text-align: center; margin-bottom: 100px;">
+  <img style="object-fit: contain; width: 25%;" src="https://github.com/h0ru/gpk/blob/main/gengar.gif" />
+</div>
+
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
