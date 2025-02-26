@@ -40,7 +40,9 @@
 </div>&nbsp;&nbsp;
  
 
-  <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="100px" max-width="100px" width="100px" align="center">
+  <p align="center">
+  <img src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" width="250px" />
+</p>
 
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
