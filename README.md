@@ -1,4 +1,5 @@
-
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="file:///C:/Users/vitor.batista/Downloads/Modern%20Business%20Notion%20Header.png" />
+&nbsp;&nbsp;&nbsp;
 
 
 
