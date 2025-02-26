@@ -5,6 +5,7 @@
 <div style="margin-bottom: 100px;">
   <img style="object-fit: contain; float: left; width: 25%;" src="https://github.com/h0ru/gpk/blob/main/gengar.gif" />
   <img style="object-fit: contain; float: right; width: 25%;" src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" />
+  <div style="clear: both;"></div>
 </div>
 
 
