@@ -4,9 +4,9 @@
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 100px;">
   <img style="object-fit: contain;" width="25%" src="https://github.com/h0ru/gpk/blob/main/gengar.gif" />
-  <div style="flex-grow: 1;"></div>
   <img style="object-fit: contain;" width="25%" src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" />
 </div>
+
 
 
 
