@@ -1,5 +1,5 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="[https://github.com/h0ru/gpk/blob/main/gengar.gif](https://github.com/VBatistaES/VBatistaES/blob/main/Modern%20Business%20Notion%20Header.png?raw=true)" />
-&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="https://github.com/VBatistaES/VBatistaES/blob/main/Modern%20Business%20Notion%20Header.png?raw=true" />
+
 
 
 <p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
