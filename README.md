@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Batista+do+Espirito+Santo;I'm+23+years+old;I'm+from+Brazil;I'm+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Batista;Eu+tenho+23+anos;Eu+sou+do+Brazil;Eu+sou+um+Fullstack+Developer+jr;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
 
