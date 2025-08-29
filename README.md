@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A81DF7&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Meu+nome+é+Vitor+Batista;Eu+tenho+23+Anos;Eu+Sou+do+Brasil;Eu+Sou+Um+Fullstack+Developer+Jr;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurzimm&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="arthur zimmermann git status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzimm&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div> 
+
 <p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
 
 <p align="center">
