@@ -6,11 +6,14 @@
 </div> 
 <br>
 <br>
-<p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
+<img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-  <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" width="250px" />
+<p align="left"> 
+   Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores</strong>.<br>
+  
 </p>
+<br/>
+
 
 #### Principal Sabedoria:
 
