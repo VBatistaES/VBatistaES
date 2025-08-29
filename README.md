@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A81DF7&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Meu+nome+é+Vitor+Batista;Eu+tenho+23+Anos;Eu+Sou+do+Brasil;Eu+Sou+Um+Fullstack+Developer+Jr;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 <br>
-<br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VBatistaES&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="Vitor Batista git status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBatistaES&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div> 
-<br>
 <br>
 <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="400px" max-width="400px" width="400px" align="right"><br><br>
 <br><br><br><br>
@@ -26,6 +24,7 @@
 
 <p align="left">
   <strong>💌 Social Network:</strong> ⤵️
+  <br/>
   <div align="center"> 
 <a href="https://www.instagram.com/Vitor_bz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:contato.vbatistaes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
