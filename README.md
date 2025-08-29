@@ -4,7 +4,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VBatistaES&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="Vitor Batista git status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBatistaES&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div> 
-
+<br>
+<br>
 <p align="center">🔹 Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores.</p>&nbsp;
 
 <p align="center">
