@@ -8,7 +8,7 @@
 <br>
 <br>
 <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="400px" max-width="400px" width="400px" align="right"><br><br>
-<br><br>
+<br><br><br><br>
 <p align="left"> 
    Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores</strong>.<br>
   
@@ -20,7 +20,7 @@
  <strong>👨‍💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸: </strong>
 <div style= "display: flex; flex-wrap:wrap;">
 
-<code> [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,react,github-dark,git,sqlite)](https://skillicons.dev)</code>
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,react,git,sqlite)](https://skillicons.dev)</code>
 </div>
 </p>
 
