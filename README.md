@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A81DF7&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Meu+nome+é+Vitor+Batista;Eu+tenho+23+Anos;Eu+Sou+do+Brasil;Eu+Sou+Um+Fullstack+Developer+Jr;Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
+<br>
+<br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VBatistaES&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="Vitor Batista git status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBatistaES&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
@@ -7,7 +8,7 @@
 <br>
 <br>
 <img src="https://github.com/h0ru/gpk/blob/main/gengar.gif" min-width="400px" max-width="400px" width="400px" align="right"><br><br>
-
+<br><br>
 <p align="left"> 
    Analista de Suporte Técnico apaixonado por resolver problemas complexos através da tecnologia. Formado em Analise e Desenvolvimento de sistemas. Gosto de equilibrar minha carreira entre competências técnicas e em programação, por isso estou ganhando experiência analisando e melhorando continuamente sistemas, fornecendo suporte técnico e integrando tudo isso aos fundamentos do desenvolvimento ágil. Atualmente, estou estudando na área da programação para aprimorar ainda mais minhas habilidades e contribuir para projetos inovadores</strong>.<br>
   
@@ -19,7 +20,7 @@
  <strong>👨‍💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸: </strong>
 <div style= "display: flex; flex-wrap:wrap;">
 
-<code> [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,react,sql,git,github-dark,SQLite)](https://skillicons.dev)</code>
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,react,github-dark,git,sqlite)](https://skillicons.dev)</code>
 </div>
 </p>
 
