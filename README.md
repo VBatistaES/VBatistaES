@@ -21,7 +21,7 @@
 </div>
 </p>
 <br/>
-<p align="left">
+<p align="center">
   <strong>💌 Social Network:</strong> ⤵️
   <br/>
   <div align="center"> 
