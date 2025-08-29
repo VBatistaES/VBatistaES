@@ -13,41 +13,22 @@
   
 </p>
 <br/>
+<br/><br/><br/><br/><br/><br/>
 
 
-#### Principal Sabedoria:
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sqlserver,C#)](https://skillicons.dev)</code>
+</div>
+</p>
 
-![SQL](https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-#### Estudando no Momento.:
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-#### Databases:
-
-![SQL](https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Estações de Trabalho:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)&nbsp;
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)&nbsp;
-
-## Contatos:
-
-<div> 
-<a href="https://www.instagram.com/Vitor_bz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p align="left">
+  <strong>💌 Social Network:</strong> ⤵️
+  <div align="center"> 
+<a href="https://www.instagram.com/Vitor_bz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:contato.vbatistaes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-batista-7a2519203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
-</a> 
-</div>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vitor-batista-7a2519203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+</p>
  
-
   <p align="center">
   <img src="https://media1.tenor.com/m/fVKbkqxUbo0AAAAC/sungjinwoo-solo-leveling.gif" width="250px" />
 </p>
